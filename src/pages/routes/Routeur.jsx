@@ -4,7 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "../home.jsx";
 import Propos from "../Propos.jsx";
 import FicheLogement from "../FicheLogement.jsx";
-import Erreur from "../Erreur.jsx";
+import Erreur from "../erreur.jsx";
 
 const router = createBrowserRouter(
   [
